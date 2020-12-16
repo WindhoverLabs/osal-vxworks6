@@ -88,7 +88,6 @@
 #include "xbdRamDisk.h"
 #include "errnoLib.h"
 #include "taskLib.h"
-#include "dirent.h"
 #include "stat.h"
 
 #ifdef USE_VXWORKS_ATA_DRIVER

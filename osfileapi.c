@@ -88,7 +88,6 @@
 #include "ramDrv.h"
 #include "dosFsLib.h"
 
-#include "dirent.h"
 #include "stat.h"
 
 #include "shellLib.h"
